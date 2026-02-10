@@ -23,6 +23,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+```
+jjjjjjjjjj
+````
 # OUTPUT
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
